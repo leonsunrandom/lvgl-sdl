@@ -1,7 +1,6 @@
 # lvgl-sdl
 Windows lvgl sdl demo. Using mingw toolchain.
 
-
 ## Windows
 
 ## Step 1. Setup environment (MSYS2 recommended)
